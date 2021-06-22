@@ -1,0 +1,7 @@
+*----------*----------*----------*----------*----------*----------*
+Weather Stats for - TRIVANDRUM  || 22 Jun 2021 | 11:48:19 AM
+*----------*----------*----------*----------*----------*----------*
+Current temperature is: 29.99 deg C
+Current weather desc  : haze 
+Current Humidity      : 74 %
+Current wind speed    : 5.14 kmph
